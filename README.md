@@ -1,4 +1,4 @@
-## Oi! Bem vindo ao meu github
+## Oioi! Bem vindo ao meu github (⌒ ‿ ⌒)
 
 <div align="center">
   <a href="https://github.com/lerigou">
