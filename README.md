@@ -1,4 +1,4 @@
-## Oioi! Bem vindo ao meu github (⌒ ‿ ⌒)
+## Oioi! Bem vindo ao meu github  \\(⌒ ‿ ⌒)/
 
 <div align="center">
   <a href="https://github.com/lerigou">
@@ -20,7 +20,11 @@
  	<a href="https://www.linkedin.com/in/marcia-eduarda-ravadelli-38a5991b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/lerigou/lerigou/blob/output/github-contribution-grid-snake.svg)
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=lerigou&repo=siteSam&cache_seconds=86400&theme=tokyonight"/>
-  <img height="146em" src="https://github-readme-stats.vercel.app/api/pin/?username=lerigou&repo=Portfolio&cache_seconds=86400&theme=tokyonight"/>
   
 </div>
+  
+  <div style="display: inline_block"><br>
+    
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=lerigou&repo=siteSam&cache_seconds=86400&theme=tokyonight"/>
+    
+  </div>
