@@ -29,9 +29,3 @@
   ![Snake animation](https://github.com/lerigou/lerigou/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-  
-  <div style="display: inline_block"><br>
-    
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=lerigou&repo=siteSam&cache_seconds=86400&theme=tokyonight"/>
-    
-  </div>
