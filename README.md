@@ -29,6 +29,6 @@
 <div>
  	<a href="https://www.linkedin.com/in/marcia-eduarda-ravadelli-38a5991b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![](./profile-3d-contrib/profile-gitblock.svg)
+  ![](./profile-3d-contrib/profile-night-rainbow.svg)
   
 </div>
